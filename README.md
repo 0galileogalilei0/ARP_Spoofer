@@ -1,4 +1,3 @@
-# ARP_Spoofer
 ARP Spoofer 🚀
 🔥 An advanced ARP spoofing tool written in Python using Scapy.
 
@@ -23,15 +22,11 @@ Edit
 git clone https://github.com/0galileogalilei0/ARP_Spoofer.git
 cd ARP_Spoofer
 3️⃣ Run the Script
-bash
-Copy
-Edit
+'''bash
 sudo python3 arp_spoofer.py -t <TARGET_IP> -s <SPOOF_IP>
 Example:
 
-bash
-Copy
-Edit
+'''bash
 sudo python3 arp_spoofer.py -t 192.168.1.10 -s 192.168.1.1
 (Replace IPs with your actual target and gateway.)
 
@@ -44,5 +39,4 @@ If you want to add features, feel free to fork the repo and make a pull request!
 
 📜 License
 🔓 MIT License – Free to use and modify!
-
 
